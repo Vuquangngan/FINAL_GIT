@@ -1,8 +1,8 @@
 <?php 
 
   $hname = 'localhost';
-  $uname = 'root';
-  $pass = '';
+  $uname = 'webuser';
+  $pass = '123456';
   $db = 'kimochi_hotel';
 
   $con = mysqli_connect($hname,$uname,$pass,$db);
