@@ -1,5 +1,7 @@
 <?php 
 
+
+
   require('admin/inc/essentials.php');
 
   session_start();
